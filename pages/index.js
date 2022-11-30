@@ -137,7 +137,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>ToDo app</title>
+        <title>ToDo Next app</title>
         <link rel='manifest' href='/manifest.json' />
       </Head>
       <Header />
